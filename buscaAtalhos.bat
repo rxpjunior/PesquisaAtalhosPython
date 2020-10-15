@@ -1,0 +1,1 @@
+shman.exe /stext "c:\shman\%computername%.txt" /folders "c:\users"
